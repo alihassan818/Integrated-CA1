@@ -1,0 +1,2 @@
+1. Run npm install to install node packages
+2. Run command "node index.js" to run scraper
